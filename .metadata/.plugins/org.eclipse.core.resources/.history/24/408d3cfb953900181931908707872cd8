@@ -1,0 +1,20 @@
+package code;
+
+import java.util.Scanner;
+
+public class Mathematics {
+	
+	public static int addition(int a, int b)
+	{
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter first number");
+		a = (int) sc.nextInt();
+		
+		System.out.println("Enter second number");
+		b = (int) sc.nextInt();
+	
+     return(a+b);
+
+	}
+}

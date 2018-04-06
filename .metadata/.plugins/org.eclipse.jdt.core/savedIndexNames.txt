@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+C:\Users\Admin\Desktop\Java for week 5 assesment\.metadata\.plugins\org.eclipse.jdt.core
+3841629467.index
+1067094681.index
+3710400897.index
+3391215716.index

@@ -1,0 +1,19 @@
+package code;
+
+public class Mathematics {
+	
+	public static int addition(int a, int b)
+	{
+		String st = new String();
+		
+		char output1 = input.charAt(5);
+		char output2 = input.charAt(7);
+		
+		input.charAt(5);
+		input.charAt(7);
+		//input.substring(output1, output2);
+
+		return(input);
+
+	}
+}
